@@ -1,0 +1,4 @@
+acceptance\PrintStatementFeature.class
+com\codurance\AccountShould.class
+com\codurance\StatementPrinterShould.class
+com\codurance\TransactionsShould.class
